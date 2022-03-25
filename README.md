@@ -1,1 +1,1 @@
-# HackerRank_Python_Assignments
+Celebal Training Practise Weekwise
